@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Sanyam Raj", "course": "B.Tech", "year" : 2, "specialisation" : "Electrical and Electronics", "college" : "National Institute of Technology,Warangal", "image" : "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    {
+        "name" : "Harry Kane", "course": "M.Tech", "year" : 2, "specialisation" : "Power System", "college" : "Visveswaraya National Institute of Technology,Nagpur", "image" : "https://randomuser.me/api/portraits/men/60.jpg"
+    },
+    {
+        "name" : "Salman Ali", "course": "M.Tech", "year" : 1, "specialisation" : "Power Electronics", "college" : "Massachussetts Institute of Technology", "image" : "https://randomuser.me/api/portraits/men/70.jpg"
+    },
+    {
+        "name" : "Bhavesh Reddy", "course": "MBA", "year" : 2, "specialisation" : "Human Resource", "college" : "Indian Institute of Management,Ahmedabad", "image" : "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+        "name" : "Samar Jain", "course": "B.Tech", "year" : 4, "specialisation" : "Computer Science", "college" : "Indian Institute of Technology,Bombay", "image" : "https://randomuser.me/api/portraits/men/65.jpg"
+    },
+    {
+        "name" : "Chaitanya Wakodkar", "course": "BBA", "year" : 1, "specialisation" : "Marketing", "college" : "Indian Institute of Management,Indore", "image" : "https://randomuser.me/api/portraits/men/80.jpg"
+    },
+    {
+        "name" : "Abhishek Nirmal", "course": "B.Com", "year" : 1, "specialisation" : "E-Commerce", "college" : "Institute of Management Studies,Noida", "image" : "https://randomuser.me/api/portraits/men/77.jpg"
+    },
+    {
+        "name" : "Mrinmayee Bhanushali", "course": "M.Tech", "year" : 2, "specialisation" : "Artificial Intelligence", "college" : "National Institute of Technology,Warangal", "image" : "https://randomuser.me/api/portraits/women/75.jpg"
+    },
+    {
+        "name" : "Sahil Gupta", "course": "BBA", "year" : 3, "specialisation" : "Business Studies", "college" : "Institute of Management Studies,Jaipur", "image" : "https://randomuser.me/api/portraits/men/72.jpg"
+    },
+    {
+        "name" : "Saundarya Priya", "course": "MBA", "year" : 1, "specialisation" : "Sales", "college" : "Amity University,Lucknow", "image" : "https://randomuser.me/api/portraits/women/52.jpg"
+    }
+]
